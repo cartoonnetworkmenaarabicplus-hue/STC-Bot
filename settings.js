@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'Knight Bot',
-  author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
+  packname: 'STC Bot',
+  author: '‎Imrane Moussaid,
+  botName: "STC Bot",
+  botOwner: 'Professor', // MOUSSAID IMRANE 
   ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
